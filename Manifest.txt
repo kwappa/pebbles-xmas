@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/pebbles/xmas
+lib/pebbles/xmas.rb
+test/test_pebbles/xmas.rb

@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require File.join(File.dirname(File.expand_path(__FILE__)), %w{ .. lib pebbles xmas })
+Pebbles::Xmas.tree ARGV[0].to_i || 20
